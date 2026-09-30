@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the paper and this repository."
+title: "Pre-Immune Window of Monolayer Neoplasia — simulation code and run data"
+authors:
+  - family-names: "Dmitrochenko"
+    given-names: "Y."
+    name-suffix: "M.D."
+  - family-names: "Demi"
+    given-names: "S. L."
+version: "1.0.0"
+date-released: "2026-09-29"
+license: MIT
+abstract: >
+  Agent-based simulation of a monolayer epithelium used to test whether resource
+  regulation alone prevents the establishment of a reverted clone, and what changes
+  when an independent oxygen filter is added. Contains the engine, the batch runners
+  and the complete run data (2500 runs) behind Chapters 1, 2 and 4 of the paper.
